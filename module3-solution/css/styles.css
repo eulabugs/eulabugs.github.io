@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+
+
+h3{
+  padding: 20px;
+}
+
+h4{
+  text-align: center;
+  margin-top: 30px;
+  padding: 5px;
+}
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 5px;
+}
+
+div {
+  margin: 10px;
+}
+
+#menu{
+  border: 1px solid black;
+  background-color: #d4d4d6;
+}
+p {
+  height: 1000px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-family: Helvetica;
+  color: black;
+
+}
+
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
